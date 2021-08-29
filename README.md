@@ -1,1 +1,0 @@
-# h6-margin-top-370pt-left-30-right-30-color-white-position-absolute-font-size-10pt-
